@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidVersionSpoofer</string>
+    <string name="settings">Android version</string>
+    <string name="os_build_number">Build number</string>
+    <string name="android_version_number">14</string>
+    <string name="security_patch_level">Android security update</string>
+    <string name="os_kernel_version">Kernel version</string>
+    <string name="kernel_version">"6.7.0-rc1-AtomX \n#1 Sun Nov 19 09:50:50 UTC 2023"</string>
+    <string name="os_baseband_version">Baseband version</string>
+    <string name="baseband_version">4.3CPL2-gl-30.2-24052.9-0825_0645_e2808efff4b</string>
+    <string name="device_information">Android version</string>
+    <string name="android_version">Android version</string>
+    <string name="build_number">"aosp_redwood-eng UP1A.231105.003 \neng.atomx.20231119.149067 test-keys"</string>
+    <string name="about_phone_spoof">About Phone Spoof</string>
+    <string name="search">Search</string>
+</resources>
